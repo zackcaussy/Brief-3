@@ -1,0 +1,35 @@
+img {
+    width: 60em;
+    margin: auto;
+    border-style: solid;
+    border-width: 40px 200px 40px 200px;
+    border-color: rgb(255, 255, 255);
+  }
+
+Body {
+    background-color:rgb(241, 238, 238);
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+li{
+    text-align :center;
+}
+
+Body{
+    font-family: sans-serif;
+}
+
+#ex1{
+    background-color: white
+}
